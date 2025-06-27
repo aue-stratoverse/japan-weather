@@ -1,5 +1,4 @@
-# japan-weather
-Lecture materials for weather around Japan
+# 日本の気象（大学授業教材）、University lecture materials for weather around Japan
 
 この資料群は、大学学部生を対象にした「日本の気象」に関する授業教材の一部です。
 
